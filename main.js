@@ -308,11 +308,11 @@
 // console.log(arr1);
   
 // 2-masala
-// let arr = [10, 15, 20, 25, 30];
+let arr = [10, 15, 20, 25, 30];
 
-// let arr1 = arr.filter(el => el >    20);
+let arr1 = arr.filter(el => el >    20);
 
-// console.log(arr1);
+console.log(arr1);
 
 // 3-masala
 
@@ -322,10 +322,10 @@
 
 // 4-masala
 
-let arr = [5, 8, 12, 20];
+// let arr = [5, 8, 12, 20];
 
-let arr1 = arr.reduce((acc, curr) => acc + curr, 0);
-console.log(arr1);
+// let arr1 = arr.reduce((acc, curr) => acc + curr, 0);
+// console.log(arr1);
 
 // 5-masala
 
