@@ -445,17 +445,17 @@
 
 // 5-masala
 
-let nums = [3, 5, 12, 8];
-let raqam = nums.some(function(num) {
-    return num < 10;
-})
-console.log(raqam);
-// 6-masala
-// let nums = [4, 7, 9, -2];
-// let raqam = nums.every(function(num) {
-//     return num < -2;
+// let nums = [3, 5, 12, 8];
+// let raqam = nums.some(function(num) {
+//     return num < 10;
 // })
 // console.log(raqam);
+// 6-masala
+let nums = [4, 7, 9, -2];
+let raqam = nums.every(function(num) {
+    return num < -2;
+})
+console.log(raqam);
 
 // 7-masala
 // let colors = ["red", "green", "blue", "yellow"];
