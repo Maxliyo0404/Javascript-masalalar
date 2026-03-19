@@ -330,9 +330,9 @@
 // 5-masala
 
 // // 1-masala
-//  const numbers = [20, 35, 99, 101, 45]
-//   const newNumbers = numbers.some(num => num > 100);
-//   console.log(newNumbers);
+ const numbers = [20, 35, 99, 101, 45]
+  const newNumbers = numbers.some(num => num > 100);
+  console.log(newNumbers);
   
 // 2-masala
 
@@ -407,11 +407,11 @@
 
 
 // 5-masala
-let nums = [3, 9, 1, 12, 5];
+// let nums = [3, 9, 1, 12, 5];
 
-let katta = nums.reduce((acc, curr,)=> Math.max(acc, curr) );
+// let katta = nums.reduce((acc, curr,)=> Math.max(acc, curr) );
 
-console.log(katta);
+// console.log(katta);
 
 
 
