@@ -386,9 +386,9 @@
 // 18-mart
 
 // 1-masala
-// let numbers = [10, 20, 30, 40];
-// let sum = numbers.length;
-//  console.log(sum);
+let numbers = [10, 20, 30, 40];
+let sum = numbers.length;
+ console.log(sum);
 //   2-masala
 // let fruits = ["apple", "banana", "orange"];
 // fruits.pop()
