@@ -458,9 +458,9 @@
 // console.log(raqam);
 
 // 7-masala
-let colors = ["red", "green", "blue", "yellow"];
-let color = colors.splice(1 , 1)
-console.log(color);
+// let colors = ["red", "green", "blue", "yellow"];
+// let color = colors.splice(1 , 1)
+// console.log(color);
 
 // 8-masala
 // let nums = [5, 2, 9, 1];
