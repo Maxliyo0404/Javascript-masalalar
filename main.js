@@ -465,7 +465,7 @@
 // 8-masala
 let nums = [5, 2, 9, 1];
 let num = nums.sort()
-console.log(num);
+// console.log(num);
 
 // let a = [1, 2];
 // let b =[3, 4];
