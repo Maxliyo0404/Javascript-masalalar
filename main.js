@@ -439,11 +439,11 @@
 
 // 4-MASALA
 
-let words = ["Hello", "World"];
-let word = words.join(" ")
-console.log(word);
+// let words = ["Hello", "World"];
+// let word = words.join(" ")
+// console.log(word);
 
-// 5-masala
+5-masala
 
 // let nums = [3, 5, 12, 8];
 // let raqam = nums.some(function(num) {
