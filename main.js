@@ -308,17 +308,17 @@
 // console.log(arr1);
   
 // 2-masala
-let arr = [10, 15, 20, 25, 30];
+// let arr = [10, 15, 20, 25, 30];
 
-let arr1 = arr.filter(el => el >    20);
+// let arr1 = arr.filter(el => el >    20);
 
-console.log(arr1);
+// console.log(arr1);
 
 // 3-masala
 
-// let arr = ["Ali", "Vali", "Hasan", "Husan"];
+let arr = ["Ali", "Vali", "Hasan", "Husan"];
 
-// console.log(arr[2]);
+console.log(arr[2]);
 
 // 4-masala
 
