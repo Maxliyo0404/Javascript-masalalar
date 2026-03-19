@@ -399,19 +399,19 @@
 // console.log(cities);
 
 // 4-masala
- let names = ["Ali", "Vali", "Hasan"];
-for (let i = 0; i < names.length; i++){
-    console.log(names[i]);
+//  let names = ["Ali", "Vali", "Hasan"];
+// for (let i = 0; i < names.length; i++){
+//     console.log(names[i]);
     
 // }
 
 
 // 5-masala
-// let nums = [3, 9, 1, 12, 5];
+let nums = [3, 9, 1, 12, 5];
 
-// let katta = nums.reduce((acc, curr,)=> Math.max(acc, curr) );
+let katta = nums.reduce((acc, curr,)=> Math.max(acc, curr) );
 
-// console.log(katta);
+console.log(katta);
 
 
 
