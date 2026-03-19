@@ -390,13 +390,13 @@
 // let sum = numbers.length;
 //  console.log(sum);
 // //   2-masala
-let fruits = ["apple", "banana", "orange"];
-fruits.pop()
-console.log(fruits);
+// let fruits = ["apple", "banana", "orange"];
+// fruits.pop()
+// console.log(fruits);
 //  3-masala
-// let cities = ["Tashkent", "Samarkand"];
-// cities.push(Fargona);
-// console.log(cities);
+let cities = ["Tashkent", "Samarkand"];
+cities.push(Fargona);
+console.log(cities);
 
 // 4-masala
 //  let names = ["Ali", "Vali", "Hasan"];
