@@ -394,14 +394,14 @@
 // fruits.pop()
 // console.log(fruits);
 //  3-masala
-let cities = ["Tashkent", "Samarkand"];
-cities.push(Fargona);
-console.log(cities);
+// let cities = ["Tashkent", "Samarkand"];
+// cities.push(Fargona);
+// console.log(cities);
 
 // 4-masala
-//  let names = ["Ali", "Vali", "Hasan"];
-// for (let i = 0; i < names.length; i++){
-//     console.log(names[i]);
+ let names = ["Ali", "Vali", "Hasan"];
+for (let i = 0; i < names.length; i++){
+    console.log(names[i]);
     
 // }
 
