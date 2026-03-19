@@ -373,8 +373,8 @@ if (son % 3 == 0 && son % 5 === 0) {
     alert("fizz")
 
 } 
-//   else if (son % 5 === 0){
-//     alert("buzz")
+  else if (son % 5 === 0){
+    alert("buzz")
 
 // } 
 // else {
