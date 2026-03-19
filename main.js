@@ -376,11 +376,11 @@ if (son % 3 == 0 && son % 5 === 0) {
   else if (son % 5 === 0){
     alert("buzz")
 
-// } 
-// else {
-//     alert("false bo'lsin")
-// }
-// console.log(son);
+} 
+else {
+    alert("false bo'lsin")
+}
+console.log(son);
 
 
 18-mart
