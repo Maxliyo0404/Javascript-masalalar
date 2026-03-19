@@ -418,11 +418,11 @@
 // 
 
 
-1-masala
+// 1-masala
 
-let nums = [3, 6, 8, 11, 14, 19];
-let juft = nums.filter(num => num % 2 === 0);
-console.log(juft);
+// let nums = [3, 6, 8, 11, 14, 19];
+// let juft = nums.filter(num => num % 2 === 0);
+// console.log(juft);
 
 
 // 2-masala
