@@ -433,7 +433,7 @@
 3-masala
  let cars = ["BMW","Audio"];
  cars.unshift("Damas")
- console.log(cars);
+ 
 
 // 4-MASALA
 
