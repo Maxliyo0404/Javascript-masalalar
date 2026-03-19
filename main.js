@@ -316,9 +316,9 @@
 
 // 3-masala
 
-let arr = ["Ali", "Vali", "Hasan", "Husan"];
+// let arr = ["Ali", "Vali", "Hasan", "Husan"];
 
-console.log(arr[2]);
+// console.log(arr[2]);
 
 // 4-masala
 
