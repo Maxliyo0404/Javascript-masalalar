@@ -425,10 +425,10 @@
 // console.log(juft);
 
 
-// 2-masala
-// let fruits = ["apple", "banana", "orange" ];
-// fruits.shift()
-// console.log(fruits);
+2-masala
+let fruits = ["apple", "banana", "orange" ];
+fruits.shift()
+console.log(fruits);
 
 // 3-masala
 //  let cars = ["BMW","Audio"];
