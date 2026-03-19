@@ -322,17 +322,17 @@
 
 // 4-masala
 
-// let arr = [5, 8, 12, 20];
+let arr = [5, 8, 12, 20];
 
-// let arr1 = arr.reduce((acc, curr) => acc + curr, 0);
-// console.log(arr1);
+let arr1 = arr.reduce((acc, curr) => acc + curr, 0);
+console.log(arr1);
 
 // 5-masala
 
 // // 1-masala
- const numbers = [20, 35, 99, 101, 45]
-  const newNumbers = numbers.some(num => num > 100);
-  console.log(newNumbers);
+//  const numbers = [20, 35, 99, 101, 45]
+//   const newNumbers = numbers.some(num => num > 100);
+//   console.log(newNumbers);
   
 // 2-masala
 
